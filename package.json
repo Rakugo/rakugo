@@ -1,0 +1,19 @@
+{
+  "name": "rakugo",
+  "version": "1.0.0",
+  "description": "# Entropy and the value of Rakugo ## Following principals of Thermoeconomics if we consider an economy as a dissipative system, the optimization of said economy is the reduction of entropy. An erc20 token that transfers value with a reduction of energy loss (gas price) would have relatively less entropy than ether. This is the intrinsic value of Rakugo and it is amplified via a staking economy that rewards long time users/investors while providing functionality of method execution at the same rate as ether. Stakes in Rakugo grow as the market cap grows, but the cost of interacting with Rakugo stays the same. Our ICO serves a similar purpose to other protocol ICO's like Ethereum in the sense that we are seeding the network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakugo/rakugo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakugo/rakugo/issues"
+  },
+  "homepage": "https://github.com/Rakugo/rakugo#readme"
+}
